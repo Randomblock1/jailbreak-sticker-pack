@@ -1,0 +1,59 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "small"
+  },
+  "stickers" : [
+    {
+      "filename" : "checkra1n.sticker"
+    },
+    {
+      "filename" : "unc0ver.sticker"
+    },
+    {
+      "filename" : "taurine.sticker"
+    },
+    {
+      "filename" : "odyssey.sticker"
+    },
+    {
+      "filename" : "chimera.sticker"
+    },
+    {
+      "filename" : "cydia.sticker"
+    },
+    {
+      "filename" : "sileo.sticker"
+    },
+    {
+      "filename" : "zebra.sticker"
+    },
+    {
+      "filename" : "installer.sticker"
+    },
+    {
+      "filename" : "libhooker.sticker"
+    },
+    {
+      "filename" : "substitute.sticker"
+    },
+    {
+      "filename" : "packix.sticker"
+    },
+    {
+      "filename" : "rjailbreak.sticker"
+    },
+    {
+      "filename" : "altstore.sticker"
+    },
+    {
+      "filename" : "reprovisionreborn.sticker"
+    },
+    {
+      "filename" : "impactor.sticker"
+    }
+  ]
+}
